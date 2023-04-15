@@ -67,3 +67,9 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 // package for lazy loading
 Microsoft.EntityFrameworkCore.Proxies
 ```
+
+## Run Project
+
+- Run command `dotnet restore'
+- Update connect string in `appsettings.json`
+- Run project
